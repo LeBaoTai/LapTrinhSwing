@@ -6,7 +6,7 @@ Chắc năng cơ bản: Thêm xoá sửa thông tin sinh viên
 
 ### Thiết lập cơ sở dữ liệu
 1. Download Xampp
-2. Vào theo đường dẫn: //localhost/phpmyadmin/
+2. Vào theo đường dẫn: http://localhost/phpmyadmin/
 3. Chọn Import -> Choose File -> chọn vào file sql phía trên
 4. Kéo xuống dưới cùng chọn Import
 
