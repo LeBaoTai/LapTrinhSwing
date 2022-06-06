@@ -1,7 +1,8 @@
-#LapTrinhSwing
+# LapTrinhSwing
 
 ## Đề tài quản lý thông tin học sinh cơ bản
 Công cụ sử dụng: IntelliJ Idea, Xampp, Mysql
+Chắc năng cơ bản: Thêm xoá sửa thông tin sinh viên
 
 ### Thiết lập cơ sở dữ liệu
 1. Download Xampp
@@ -15,5 +16,7 @@ Công cụ sử dụng: IntelliJ Idea, Xampp, Mysql
 ..... Lưu ý: (Nếu đã có file "mysql-connector-java-8.0.29.jar" và kèm theo tích xanh phía trước thì không cần làm bước 4)
 4. Click dấu cộng -> chọn Jars or Directories... -> dẫn vài thư mục "lib" phía trên và chọn file mysql-connector-java-8.0.29.jar
 5. Tích vào ô đầu tiên, phía cuối chọn "Compile"
-______________
-| Lê Bảo Tài |
+
+***
+>>> Lê Bảo Tài
+***
