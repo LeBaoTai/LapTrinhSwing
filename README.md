@@ -3,7 +3,7 @@
 ## Đề tài quản lý thông tin học sinh cơ bản
 Công cụ sử dụng: IntelliJ Idea, Xampp, Mysql
 
-Chắc năng cơ bản: Thêm xoá sửa thông tin sinh viên
+Tác vụ cơ bản: Thêm xoá sửa thông tin sinh viên
 
 ### Thiết lập cơ sở dữ liệu
 1. Download Xampp
